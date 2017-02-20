@@ -3,8 +3,7 @@ http://backlogtool.com/git-guide/cn/intro/intro2_4.html
 
 add 把变更录入到索引中
 add 再次添加一行内容
-<<<<<<< HEAD
 add 更改了一些内容，在公司的电脑上
-=======
 add 更改了一些内容，在家里的电脑上
->>>>>>> d9aa2858381a13231b53ab4d69d9bc7bf7157e33
+add 这是A修改的
+
