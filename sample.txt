@@ -3,5 +3,7 @@ http://backlogtool.com/git-guide/cn/intro/intro2_4.html
 
 add 把变更录入到索引中
 add 再次添加一行内容
+add 更改了一些内容，在公司的电脑上
 add 更改了一些内容，在家里的电脑上
 add 服务器上的内容更改了，这里没改，会怎么样？
+
